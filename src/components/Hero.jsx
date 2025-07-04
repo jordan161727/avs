@@ -21,7 +21,7 @@ const Hero = () => {
       <div className="flex-1 text-center md:text-left">
         <h1 className="text-4xl font-bold text-gray-800 leading-tight">
           Affordable and world-class <br />
-            <span className="text-[#db619e]">VIRTUAL ASSISTANT SERVICESS</span>
+            <span className="text-[#db619e]">VIRTUAL ASSISTANT SERVICES</span>
         </h1>
         <p className="text-gray-600 mt-4">
           Hiring our virtual assistant services is like getting your own
