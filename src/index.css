@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-background {
+    background: radial-gradient(circle, #BAB86C 10%, transparent 11%);
+    background-size: 3em 3em;
+    background-color: #ffffff;
+    opacity: 1;
+}
